@@ -1,0 +1,7 @@
+{
+  "name": "Generador de Podcasts con IA",
+  "description": "Crea un podcast muy entretenido adaptado a cualquier tema que imagines. Simplemente introduce un tema y la IA generará preguntas de personalización para adaptar tu experiencia auditiva antes de producir un podcast de audio único para ti.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
